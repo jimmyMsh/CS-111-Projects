@@ -1,12 +1,13 @@
 # Weather Generator: A Java Library for Weather Forecast Simulations and Analysis
 
-The Weather Generator is a Java program that simulates and analyzes weather forecasts, with an emphasis on predicting whether a day will be "wet" (having measurable precipitation) or "dry." To implement this program, a strong foundation in probability, statistics, and data manipulation using Java is necessary. The project showcases the application of computational techniques to predict long-range climate patterns, which is crucial for those pursuing careers in meteorology, climate science, or related fields.
+This Java program is an advanced weather forecast generator and analyzer, requiring proficiency in Java programming, data manipulation, statistical analysis, and probability theory. The program generates synthetic time series of weather data for a specific location, based on the statistical characteristics of observed weather at that location. The goal of this project is to showcase how computational techniques can be used in predicting long-range climate patterns, despite the inherent uncertainty in day-to-day weather forecasting.
 
-The program relies on historical weather data, including the probability of a day being wet or dry based on the previous day's weather and the time of year. The program uses the statistical characteristics of observed weather at a given location to simulate future weather patterns.
+The program operates by processing two input files containing probabilities of weather transitioning from dry to wet and wet to wet for different months and locations. Please make sure to put the two text files that are included in the same directory as this program.
 
 Key features of the Weather Generator include:
 
 - **Populating location probabilities:** Reads weather data from text files and populates arrays with probabilities for a specific location. 
+
 - **Forecast generation:** Predicts future precipitation patterns for one month using historical probabilities and random numbers.
 
 - **One-month forecast:** Combines previous methods to prepare data and predict weather for an entire month.
