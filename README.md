@@ -4,18 +4,11 @@ This repository contains a collection of projects completed as part of the CS 11
 ## Projects Overview
 Below is a brief overview of the projects included in the "CS 111 Projects" folder:
 
-1. 
+1. Polygon Transformer
+This Java program is a library of static methods designed to perform geometric transformations on polygons, such as scaling, translation, and rotation. The program requires a strong understanding of linear algebra, trigonometry, and familiarity with Java's Math class to work with angles in radians and degrees. This project demonstrates the ability to create reusable code for complex mathematical operations and is suitable for those with intermediate Java experience.
 
-
-
-
-
-
-
-
-
-
-
+2. Weather Generator
+The Weather Generator is a Java program that simulates and analyzes weather forecasts, focusing on predicting whether a day will be "wet" (with measurable precipitation) or "dry." The program requires knowledge of probability, statistics, and data manipulation in Java, making it suitable for those with intermediate Java experience. It demonstrates the application of computational methods to long-range climate pattern predictions, which is an essential skill for those seeking careers in meteorology, climate science, or related fields.
 
 Each project folder contains the Java source code, a detailed description.txt file explaining the project's objectives and requirements, and any necessary input/output files or additional resources.
 
