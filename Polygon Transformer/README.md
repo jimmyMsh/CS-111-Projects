@@ -1,7 +1,4 @@
 ## Weather Generator
-The Weather Generator is a Java program that simulates and analyzes weather forecasts, focusing on predicting whether a day will be "wet" (with measurable precipitation) or "dry." The program requires knowledge of probability, statistics, and data manipulation in Java, making it suitable for those with intermediate Java experience. It demonstrates the application of computational methods to long-range climate pattern predictions, which is an essential skill for those seeking careers in meteorology, climate science, or related fields.
-
-Detailed description for the file with the actual program:
 
 Weather Generator: A Java Library for Weather Forecast Simulations and Analysis
 The Weather Generator is a Java program that simulates and analyzes weather forecasts, with an emphasis on predicting whether a day will be "wet" (having measurable precipitation) or "dry." To implement this program, a strong foundation in probability, statistics, and data manipulation using Java is necessary. The project showcases the application of computational techniques to predict long-range climate patterns, which is crucial for those pursuing careers in meteorology, climate science, or related fields.
