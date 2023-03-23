@@ -4,14 +4,17 @@ This Java program is a comprehensive library of static methods that performs var
 The program represents a polygon using two parallel arrays x[] and y[], which store the x- and y-coordinates of the polygon's vertices. The library provides three key geometric transformations:
 
 Scale: Scales the coordinates of each vertex (x_i, y_i) by a factor α, using the following formulas:
+<br> 
 x'i = α * x_i
 y'i = α * y_i
 
 Translate: Translates each vertex (x_i, y_i) by a given offset (dx, dy), using the following formulas:
+<br>
 x'i = x_i + dx
 y'i = y_i + dy
 
 Rotate: Rotates each vertex (x_i, y_i) by θ degrees counterclockwise around the origin, using the following formulas:
+<br>
 x'i = x_i * cos(θ) - y_i * sin(θ)
 y'i = y_i * cos(θ) + x_i * sin(θ)
 (Note: The program uses radians for angle measurements and requires conversions using Math.toRadians and Math.toDegrees.)
