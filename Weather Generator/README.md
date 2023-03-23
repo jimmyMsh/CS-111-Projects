@@ -23,5 +23,5 @@ The Weather Generator program is ideal for those with intermediate Java experien
 
 You can test the program by running the code found in the main method.
 
-To generate the weather for location at longitude -98.76 and latitude 26.70 for the month of February do:
-java WeatherGenerator -98.76 26.70 3
+To generate the weather for location at longitude -97.59 and latitude 26.72 for the month of January do:
+java WeatherGenerator -97.59 26.72 2
