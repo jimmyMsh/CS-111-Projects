@@ -6,11 +6,15 @@ The program relies on historical weather data, including the probability of a da
 
 Key features of the Weather Generator include:
 
-**Populating location probabilities:** Reads weather data from text files and populates arrays with probabilities for a specific location.
-**Forecast generation:** Predicts future precipitation patterns for one month using historical probabilities and random numbers.
-**One-month forecast:** Combines previous methods to prepare data and predict weather for an entire month.
-**Number of wet/dry days:** Calculates the number of wet or dry days in a given month's forecast.
-**Length of longest wet/dry spell:** Identifies the longest wet or dry spell in a given month's forecast.
-**Best week to travel:** Determines the 7-day period with the most dry days, which can be useful for travel planning.
+<strong>Populating location probabilities:</strong> Reads weather data from text files and populates arrays with probabilities for a specific location. <br>
+<strong>Forecast generation:</strong> Predicts future precipitation patterns for one month using historical probabilities and random numbers.
+<br>
+<strong>One-month forecast:</strong> Combines previous methods to prepare data and predict weather for an entire month.
+<br>
+<strong>Number of wet/dry days</strong> Calculates the number of wet or dry days in a given month's forecast.
+<br>
+<strong>Length of longest wet/dry spell:</strong> Identifies the longest wet or dry spell in a given month's forecast.
+<br>
+<strong>Best week to travel:</strong> Determines the 7-day period with the most dry days, which can be useful for travel planning.
 <br>
 The Weather Generator program is ideal for those with intermediate Java experience seeking to apply computational methods to real-world problems, such as long-range weather prediction. It demonstrates the ability to manipulate and analyze complex data sets, which is an essential skill for careers in meteorology, climate science, and other related fields.
