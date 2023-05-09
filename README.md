@@ -13,6 +13,11 @@ This Java program is a library of static methods designed to perform geometric t
 ### 2. Weather Generator
 This Java program is a weather forecast generator and analyzer, demonstrating skills in data manipulation, statistical analysis, and probability theory. A solid foundation in Java programming and a basic understanding of computer science concepts are necessary to successfully implement this project. The program simulates daily weather patterns based on historical weather data, providing long-range climate trend predictions. It processes two input files containing the probabilities of weather transitioning from dry to wet and wet to wet. Key functionality includes generating a one-month forecast, counting wet and dry days, identifying the longest wet or dry spell, and determining the best week to travel based on dry days.
 
+### 3. Art Collage
+This Java program demonstrates skills in digital image manipulation, array processing, and object-oriented programming by creating artistic collages from digital images. Utilizing the Picture and Color classes for handling digital images and colors, the program offers functionality such as scaling images, generating collages from image tiles, replacing tiles with other images, colorizing tiles, and converting tiles to grayscale.
+
+
+### General Information:
 Each project folder contains the Java source code, a detailed README.md file explaining the project's objectives and requirements, and any necessary input/output files or additional resources.
 
 Getting Started
