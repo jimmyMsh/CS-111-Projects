@@ -18,7 +18,7 @@ Key features of the Weather Generator include:
 
 - **Best week to travel:** Determines the 7-day period with the most dry days, which can be useful for travel planning.
 
-The Weather Generator program is ideal for those with intermediate Java experience seeking to apply computational methods to real-world problems, such as long-range weather prediction. It demonstrates the ability to manipulate and analyze complex data sets, which is an essential skill for careers in meteorology, climate science, and other related fields.
+The Weather Generator program is ideal for those with intermediate Java experience seeking to apply computational methods to real-world problems, such as long-range weather prediction. It demonstrates the ability to manipulate and analyze complex data sets.
 <br>
 
 You can test the program by running the code found in the main method.
