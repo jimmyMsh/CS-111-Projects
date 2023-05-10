@@ -22,6 +22,6 @@ x'i = x_i * cos(θ) - y_i * sin(θ)
 y'i = y_i * cos(θ) + x_i * sin(θ)
 (Note: The program uses radians for angle measurements and requires conversions using Math.toRadians and Math.toDegrees.)
 
-This project showcases the ability to create a reusable library of complex mathematical operations and caters to those with intermediate Java experience. By incorporating this library, users can efficiently manipulate polygonal shapes for various applications in computer graphics, computational geometry, and other fields that require geometric transformations.
+This project showcases the ability to create a reusable library of complex mathematical operations. By incorporating this library, users can efficiently manipulate polygonal shapes for various applications in computer graphics, computational geometry, and other fields that require geometric transformations.
 
 Code to test the various methods are located at the bottom of the file.
