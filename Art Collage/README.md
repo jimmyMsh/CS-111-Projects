@@ -18,6 +18,7 @@ Key features of Art Collage include:
 
 This project demonstrates an ability to work with digital images, manipulate their properties, and create custom collages by implementing various image processing techniques using Java programming language.
 <br>
+<br>
 
 ### How to Run the Art Collage Creator
 
